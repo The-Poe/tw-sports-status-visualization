@@ -1,4 +1,26 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 臺灣運動現況資料視覺化
+
+這是一個數據可視化專案，用於展示[臺灣政府開放資料平臺上的運動城市調查各縣市規律運動現況](https://data.gov.tw/dataset/24375)資料。
+
+## 線上預覽
+
+您可以通過以下鏈接查看部署的應用程序：
+[https://tw-sports-status-visualization-kdpolaq1l-thepoes-projects.vercel.app](https://tw-sports-status-visualization-kdpolaq1l-thepoes-projects.vercel.app)
+
+## 項目概述
+
+本專案利用現代化前端技術，將政府開放的運動數據轉化為直觀的視覺化圖表，幫助用戶更好地理解臺灣各地區運動現況的變化趨勢。
+
+## 數據來源
+
+數據來源於教育部體育署提供的[運動城市調查各縣市規律運動現況](https://data.gov.tw/dataset/24375)資料集。
+
+## 技術棧
+
+- [Next.js](https://nextjs.org) - React 框架
+- [Chart.js](https://www.chartjs.org/) 和 [react-chartjs-2](https://react-chartjs-2.js.org/) - 數據可視化
+- [Tailwind CSS](https://tailwindcss.com/) - 樣式
+- [Vercel](https://vercel.com/) - 部署和託管
 
 ## Getting Started
 
@@ -6,12 +28,6 @@ First, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
