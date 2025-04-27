@@ -5,7 +5,7 @@
 ## 線上預覽
 
 您可以通過以下鏈接查看部署的應用程序：
-[https://tw-sports-status-visualization-kdpolaq1l-thepoes-projects.vercel.app](https://tw-sports-status-visualization-kdpolaq1l-thepoes-projects.vercel.app)
+[https://tw-sports-status-visualization.vercel.app/](https://tw-sports-status-visualization.vercel.app/)
 
 ## 項目概述
 
